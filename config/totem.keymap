@@ -1,4 +1,4 @@
-#define ZMK_POINTING_DEFAULT_MOVE_VAL 1500  // default: 600, This controls the speed of the mouse keys, not the cirque.
+##define ZMK_POINTING_DEFAULT_MOVE_VAL 1500  // default: 600, This controls the speed of the mouse keys, not the cirque.
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 20    // default: 10
 
 
